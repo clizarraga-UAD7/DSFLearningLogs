@@ -3,6 +3,8 @@ Learning Logs from DSF Program
 
 ***
 
-Please go to the [Wiki section](https://github.com/ua-data7/Trainings/wiki/Introduction-to-Github-Wikis) for the documentation
+Please go to the [Wiki section]() for the documentation
+
+[Go to Google](https://www.google.com)
 
 ***
